@@ -43,9 +43,9 @@ const config = {
     docs: {
       sidebar: {
         autoCollapseCategories: true, // Auto-collapse other categories
+        hideable: true,
       },
     },
-    // Remove footer for book-like feel
     footer: {
       style: "dark",
       links: [],
