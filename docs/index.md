@@ -1,6 +1,9 @@
 ---
 sidebar_position: 1
-title: "2024: 独立开发的第一年，我的成长与收获"
+title: "关于本书"
+hide_title: true
+description: "2024: 独立开发的第一年，我的成长与收获"
+slug: /
 ---
 
 # 关于本书
