@@ -4,44 +4,22 @@ sidebar_position: 1
 
 # 关于本书
 
-Let's discover **Docusaurus in less than 5 minutes**.
+关注我一段时间的朋友们可能知道，我喜欢写文章，但从来不写年终总结——值得写的往往已经写过，其它的似乎也没什么可写。**然而 2024 对我是特别的：我踏上了独立开发之旅，发布了自己的第一款产品 [Clicknow](https://clicknow.ai)**。作为一个新手，我还难言有什么成功经验。但这短短一年确让我有很多体悟，因此想以年终总结的形式记录一下。
 
-## Getting Started
+本书免费且[开源](https://github.com/laike9m/indie2024)。同时提供付费 PDF 版本，包含了一些额外内容（比如产品的收入情况）。
 
-Get started by **creating a new site**.
+那就让我们开始吧。
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+---
 
-### What you'll need
+### 版权声明
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+本网站的公开内容采用 [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/) 进行许可。
 
-## Generate a new site
+这意味着您可以自由分享、复制和传播本作品的整体或部分内容，但须遵守下列条件:
 
-Generate a new Docusaurus site using the **classic template**.
+- 署名 — 您必须给出适当的署名，提供指向本许可协议的链接，同时标明是否(对原始作品)作了修改。您可以用任何合理的方式来署名，但不得以任何方式暗示许可人为您或您对本作品的使用提供认可。
+- 非商业性使用 — 您不得将本作品用于商业目的。
+- 禁止演绎 — 如果您再混合、转换或者基于本作品创作，您不可以分发修改后的作品。
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+无视上述任何条件，都构成违反许可协议,根据法律将受到相应的处罚。

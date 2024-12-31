@@ -6,7 +6,7 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "独立开发的第一年：我的 2024",
+  title: "2024: 独立开发的第一年，我的成长与收获",
   favicon: "img/favicon.ico",
   url: "https://indie2024.laike9m.com/",
   baseUrl: "/",
@@ -37,7 +37,7 @@ const config = {
 
   themeConfig: {
     navbar: {
-      title: "My 2024",
+      title: "2024: 独立开发的第一年，我的成长与收获",
       items: [], // Minimal navbar items
     },
     docs: {
