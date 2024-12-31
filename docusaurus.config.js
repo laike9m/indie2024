@@ -15,7 +15,7 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   i18n: {
     defaultLocale: "zh-Hans",
-    locales: ["zh"],
+    locales: ["zh-Hans"],
   },
 
   presets: [
@@ -26,7 +26,6 @@ const config = {
           sidebarPath: require.resolve('./sidebar.js'),
           routeBasePath: "/", // Makes docs the root
           breadcrumbs: false, // Removes breadcrumbs for a cleaner book look
-          titleDelimiter: "", // 这会移除标题中的分隔符
         },
         blog: false,
         theme: {
