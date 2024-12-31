@@ -6,7 +6,7 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "2024: 独立开发的第一年，我的成长与收获",
+  title: "2024: 独立开发的第一年，我的收获与成长",
   favicon: "img/favicon.ico",
   url: "https://indie2024.laike9m.com/",
   baseUrl: "/",
@@ -37,7 +37,7 @@ const config = {
 
   themeConfig: {
     navbar: {
-      title: "2024: 独立开发的第一年，我的成长与收获",
+      title: "2024: 独立开发的第一年，我的收获与成长",
       items: [], // Minimal navbar items
     },
     docs: {
@@ -57,14 +57,14 @@ const config = {
       { name: 'description', content: '2024 年，我踏上了独立开发之旅。这短短一年让我有很多体悟，因此想以年终总结的形式记录一下。' },
 
       // Open Graph
-      { property: 'og:title', content: '2024: 独立开发的第一年，我的成长与收获' },
+      { property: 'og:title', content: '2024: 独立开发的第一年，我的收获与成长' },
       { property: 'og:description', content: '2024 年，我踏上了独立开发之旅。这短短一年让我有很多体悟，因此想以年终总结的形式记录一下。' },
       { property: 'og:type', content: 'website' },
       { property: 'og:image', content: 'https://indie2024.laike9m.com/img/ebook-cover.png' },
 
       // Twitter
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:title', content: '2024: 独立开发的第一年，我的成长与收获' },
+      { name: 'twitter:title', content: '2024: 独立开发的第一年，我的收获与成长' },
       { name: 'twitter:description', content: '2024 年，我踏上了独立开发之旅。这短短一年让我有很多体悟，因此想以年终总结的形式记录一下。' },
       { name: 'twitter:image', content: 'https://indie2024.laike9m.com/img/ebook-cover.png' },
     ],
