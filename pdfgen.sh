@@ -12,6 +12,8 @@ pandoc docs/*.md \
   -V linkcolor="[rgb]{0.18,0.52,0.33}" \
   -V urlcolor="[rgb]{0.18,0.52,0.33}" \
   -V toccolor=darkgray \
+  -V title="独立开发的第一年，我的成长与收获" \
+  -V author="laike9m" \
   --top-level-division=chapter \
   -H custom_header.tex \
-  -o result.pdf
+  -o "独立开发的第一年，我的成长与收获.pdf"
