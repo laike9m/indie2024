@@ -1,0 +1,17 @@
+pandoc docs/*.md \
+  --pdf-engine=xelatex \
+  --toc \
+  --number-sections \
+  -V geometry:margin=1in \
+  -V mainfont="Noto Sans CJK SC" \
+  -V CJKmainfont="Noto Sans CJK SC" \
+  -V documentclass=extreport \
+  -V fontsize=12pt \
+  -V linestretch=1.3 \
+  -V colorlinks=true \
+  -V linkcolor="[rgb]{0.18,0.52,0.33}" \
+  -V urlcolor="[rgb]{0.18,0.52,0.33}" \
+  -V toccolor=darkgray \
+  --top-level-division=chapter \
+  -H custom_header.tex \
+  -o result.pdf

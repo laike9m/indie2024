@@ -1,0 +1,32 @@
+% 基础包
+\usepackage{titlesec}
+\usepackage{tocloft}
+
+% 设置正文字体大小为 18pt，行距为 1.3 倍
+\renewcommand{\normalsize}{\fontsize{18pt}{23.4pt}\selectfont}
+\normalsize
+
+% 设置章节标题格式和大小
+\titleformat{\chapter}
+  {\normalfont\fontsize{28pt}{34pt}\bfseries}
+  {\thechapter}
+  {8pt}
+  {}
+  []
+
+% 设置章节标题间距
+\titlespacing*{\chapter}
+  {0pt}    % 左边距
+  {-40pt}  % 上边距
+  {20pt}   % 下边距
+
+% 设置目录字体大小
+\renewcommand{\cftsecfont}{\fontsize{14pt}{17pt}\selectfont}
+\renewcommand{\cftsubsecfont}{\fontsize{12pt}{15pt}\selectfont}
+\renewcommand{\cftchapfont}{\fontsize{14pt}{17pt}\bfseries\selectfont}
+
+% 移除目录中的点点
+\renewcommand{\cftdot}{}
+
+% 减少目录标题上方的空白
+\setlength{\cftbeforetoctitleskip}{-40pt}
