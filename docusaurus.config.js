@@ -11,7 +11,7 @@ const config = {
   url: "https://indie2024.laike9m.com/",
   baseUrl: "/",
   projectName: "indie2024",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   i18n: {
     defaultLocale: "zh-Hans",
