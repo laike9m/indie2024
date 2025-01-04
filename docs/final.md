@@ -8,6 +8,11 @@ sidebar_position: 10
 
 在开始前，我曾写过一篇文章[《我想怎样做个人产品》](https://laike9m.com/blog/wo-xiang-zen-yang-zuo-ge-ren-chan-pin,148/)，并在心里设定了 $1000 的销售目标。目前这两方面均已达成，因此我对第一个项目 Clicknow 还是很满意的。当然即便没达到，我在这个过程中学到的东西也已经足够有价值。
 
+2025 年，在独立开发方面我有两件想做的事：
+
+- 尝试和 influencer 合作进行推广
+- [做一个 SaaS](https://podwise.ai/dashboard/episodes/2569719?locate=4139)
+
 如果你想获得本书的 PDF 版（包含额外章节：产品的收入情况），可[在此购买](https://laike9m.lemonsqueezy.com/)。
 
 最后，感谢各位的阅读。
