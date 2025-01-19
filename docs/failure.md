@@ -28,7 +28,7 @@ sidebar_position: 4
 
 和 Reddit 帖子：[I made an app to help you automate boring tasks with one click](https://www.reddit.com/r/macapps/comments/1e8oxjn/i_made_an_app_to_help_you_automate_boring_tasks/?sort=old)
 
-然而随着时间推移，我的想法逐渐产生了变化——因为我发现不论是自己还是早期用户，日常基本只用 AI 解释和翻译，其次是拼写检查。至于添加日历、航班追踪和计算器，我总共加起来用过不到五次。另一方面，我发现 Xylect 的 AI 划词确实帮我节省了很多时间，这是我当初没料到的。渐渐地，我不再羞于称 Xylect 为一个 AI 工具，而 multi-tool 的定位则是越看越不顺眼。终于有一天，我小小地 pivot 了一下，把 Xylect [重新定位](https://web.archive.org/web/20240812043240/https://xylect.app/)成一个 “AI search & translation” 工具。
+然而随着时间推移，我的想法逐渐产生了变化——因为我发现不论是自己还是早期用户，日常基本只用 AI 划词解释和翻译，其次是拼写检查。至于添加日历、航班追踪和计算器，我总共加起来用过不到五次。另一方面，我发现划词确实帮我节省了很多时间，这是我当初没料到的。渐渐地，我不再羞于称 Xylect 为一个 AI 工具，而 multi-tool 的定位则是越看越不顺眼。终于有一天，我小小地 pivot 了一下，把 Xylect [重新定位](https://web.archive.org/web/20240812043240/https://xylect.app/)成一个 “AI search & translation” 工具。
 
 时间进到十月初。这时 Xylect 已经有了少量用户，我时不时会收到一些反馈。有个反馈很有意思，说不知道 “Xylect” 这个词怎么念。 起初我不以为意，因此 `Xylect == select` 在我脑中已经固化，便觉得大部分人也应该会读。后来问的人多了，我也动摇起来：难不成大家真不会念？疑虑像泡泡一样膨胀，有一天我终于受不了了，遂决定改名。一番搜索后我灵光一现，click + know, Clicknow，还有比这更贴切的名字吗？至于后缀，既然我已经认定 Clicknow 是一个 AI 工具，那用 .ai 域名也是顺理成章。于是，[clicknow.ai](https://clicknow.ai) 诞生了。
 
